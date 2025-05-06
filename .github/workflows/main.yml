@@ -21,5 +21,5 @@ jobs:
 
     - name: Build and push Docker image
       run: |
-        docker build -t your-dockerhub-username/flask-docker-cicd:latest .
-        docker push your-dockerhub-username/flask-docker-cicd:latest
+        docker build -t santosh0788/cicd-docker:latest .
+        docker push santosh0788/cicd-docker:latest
