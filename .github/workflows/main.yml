@@ -23,3 +23,4 @@ jobs:
       run: |
         docker build -t santosh0788/cicd-docker .
         docker push santosh0788/cicd-docker
+#santosh
